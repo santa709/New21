@@ -1,0 +1,82 @@
+body {
+	max-width: 19800px;
+	background: #fff;
+}
+
+.wrap {
+	max-width: 980px;
+	-webkit-box-shadow: 20px -12px 13px 0px rgba(191, 191, 191, 0.95);
+	-moz-box-shadow: 20px -12px 13px 0px rgba(191, 191, 191, 0.95);
+	box-shadow: 20px -12px 13px 0px rgba(191, 191, 191, 0.95);
+	margin: 0 auto;
+	margin-top: 50px;
+	border-radius: 5px;
+	background: rgba(81, 255, 11, 0.5);
+	height: auto;
+
+}
+
+.students {
+	max-width: 880px;
+	-webkit-box-shadow: 20px -12px 13px 0px rgba(191, 191, 191, 0.95);
+	-moz-box-shadow: 20px -12px 13px 0px rgba(191, 191, 191, 0.95);
+	box-shadow: 20px -12px 13px 0px rgba(191, 191, 191, 0.95);
+	margin: 0 auto;
+	margin-top: 50px;
+	border-radius: 5px;
+	background: #101010cc;
+	height: 560px;
+	margin-bottom: 50px;
+}
+.student1 img {
+	margin-top: 20px;
+	margin-left: 20px;
+	border: 1px solid orange;
+	width: 290px;
+	height: auto;
+	margin-left: 40px;
+	margin-top: 40px;
+}
+.about {
+	border-radius: 0px 30px;
+	background: #f9a63b;
+	width: 50%;
+	height: auto;
+	margin: 40px;
+	margin-left: 60px;
+}
+.about p {
+	color: #fff;
+	padding: 30px;
+}
+.student1 {
+	display: flex;
+	justify-content: center;
+	height: auto;
+}
+.progress-bar1 {
+    float: left;
+    width: 0;
+    height: 100%;
+    font-size: 12px;
+    line-height: 20px;
+    color: #fff;
+    text-align: center;
+    background-color: #f9a63b;
+    -webkit-box-shadow: inset 0 -1px 0 rgba(0,0,0,.15);
+    box-shadow: inset 0 -1px 0 rgba(0,0,0,.15);
+    -webkit-transition: width .6s ease;
+    -o-transition: width .6s ease;
+    transition: width .6s ease;
+}
+.progress-bar {
+    background-color: #2fd3ea !important;
+ }
+h5 {
+	color: #14f113 !important;
+	font-size: 33px !important;
+	font-weight: 600 !important;
+}
+h2 {
+	text-align: center !important;
+}
