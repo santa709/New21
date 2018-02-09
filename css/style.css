@@ -80,3 +80,13 @@ h5 {
 h2 {
 	text-align: center !important;
 }
+
+.student2 {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	flex-direction: column;
+}
+.student2 h3 {
+	color: white;
+}
